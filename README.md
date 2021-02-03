@@ -2,6 +2,6 @@
 
 A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement.
  
-You can run test.py to obtain the quality score using our [pre-trained model](https://pan.baidu.com/s/1ClGBtwXZzGrcLiwGf-IdfA (qacp)).
+You can run test.py to obtain the quality score using our [pre-trained model](https://pan.baidu.com/s/1ClGBtwXZzGrcLiwGf-IdfA (qacp))(qacp).
 
-To train the model, you need to prepare the [dataset](https://pan.baidu.com/s/10pSRRu9OyeaVh2ZlSh4BlA (lstd)) first. Then, run train.py.
+To train the model, you need to prepare the [dataset](https://pan.baidu.com/s/10pSRRu9OyeaVh2ZlSh4BlA (lstd))(lstd) first. Then, run train.py.
