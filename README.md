@@ -1,6 +1,6 @@
 # Twice-Mixing
 
-A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement. Accepted by Signal Processing: Image communication, 2021. [[paper](https://arxiv.org/pdf/2102.00670.pdf)]
+A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement. Accepted by Signal Processing: Image communication, 2021. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596521003155)]
  
 You can run test.py to obtain the quality score using our [pre-trained model](https://pan.baidu.com/s/1ClGBtwXZzGrcLiwGf-IdfA (qacp))(qacp).
 
