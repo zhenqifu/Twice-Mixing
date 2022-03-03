@@ -6,6 +6,6 @@ You can run test.py to obtain the quality score using our [pre-trained model](ht
 
 To train the model, you need to prepare the [dataset](https://pan.baidu.com/s/10pSRRu9OyeaVh2ZlSh4BlA (lstd))(lstd) first. Then, run train.py.
 
-The dataset and our pre-trained model are now available at [Google Drive] (https://drive.google.com/drive/folders/11HWoy_7HGOMIcuMlqYqNOuojQDrkBdvw?usp=sharing)
+The dataset and our pre-trained model are now available at [Google Drive](https://drive.google.com/drive/folders/11HWoy_7HGOMIcuMlqYqNOuojQDrkBdvw?usp=sharing)
 
 If you find Twice-Mixing is useful in your research, please consider citing our paper.
