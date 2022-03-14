@@ -8,4 +8,4 @@ To train the model, you need to prepare the [dataset (Baidu Drive)](https://pan.
 
 If you find Twice-Mixing is useful in your research, please consider citing our paper.
 
-**New:** The dataset and our pre-trained model are now available at [Google Drive](https://drive.google.com/drive/folders/11HWoy_7HGOMIcuMlqYqNOuojQDrkBdvw?usp=sharing)
+**New:** The dataset and our pre-trained model are available at [Google Drive](https://drive.google.com/drive/folders/11HWoy_7HGOMIcuMlqYqNOuojQDrkBdvw?usp=sharing)
