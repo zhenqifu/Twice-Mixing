@@ -1,4 +1,4 @@
-# A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement (Signal Processing: Image communication, 2021) [<a href="img/Twice Mixing.pdf">pdf</a>]
+# A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement (Signal Processing: Image communication, 2021) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596521003155)
 
 The Pytorch Implementation of ''Unsupervised Underwater Image Restoration: From a Homology Perspective''. 
 
