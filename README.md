@@ -31,7 +31,17 @@ python train.py
 ## Citation
 
 If you find Twice-Mixing is useful in your research, please cite our paper:
-
+```
+@article{fu2022twice,
+  title={Twice mixing: a rank learning based quality assessment approach for underwater image enhancement},
+  author={Fu, Zhenqi and Fu, Xueyang and Huang, Yue and Ding, Xinghao},
+  journal={Signal Processing: Image Communication},
+  volume={102},
+  pages={116622},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 
 **New:** The dataset and pre-trained model are available at [Google Drive](https://drive.google.com/drive/folders/11HWoy_7HGOMIcuMlqYqNOuojQDrkBdvw?usp=sharing)
 
