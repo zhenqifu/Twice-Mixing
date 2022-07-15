@@ -1,7 +1,8 @@
-# A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement (Signal Processing: Image communication, 2021)([Paper]("./img/Twice Mixing.pdf"))
+# A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement (Signal Processing: Image communication, 2021)
+[<a href="./img/Twice Mixing.pdf">pdf</a>]
 The Pytorch Implementation of ''Unsupervised Underwater Image Restoration: From a Homology Perspective''. 
 
-<div align=center><img src="img/1.png" height = "50%" width = "50%"/></div>
+<div align=center><img src="img/1.png" height = "60%" width = "60%"/></div>
 
 ## Introduction
 In this project, we use Ubuntu 16.04.5, Python 3.7, Pytorch 1.7.1 and one NVIDIA RTX 2080Ti GPU. 
@@ -32,7 +33,7 @@ python train.py
 If you find Twice-Mixing is useful in your research, please cite our paper:
 
 
-**New:** The dataset and our pre-trained model are available at [Google Drive](https://drive.google.com/drive/folders/11HWoy_7HGOMIcuMlqYqNOuojQDrkBdvw?usp=sharing)
+**New:** The dataset and pre-trained model are available at [Google Drive](https://drive.google.com/drive/folders/11HWoy_7HGOMIcuMlqYqNOuojQDrkBdvw?usp=sharing)
 
 
 
