@@ -1,6 +1,6 @@
 # A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement (Signal Processing: Image communication, 2021) [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0923596521003155)
 
-The Pytorch Implementation of ''Unsupervised Underwater Image Restoration: From a Homology Perspective''. 
+The Pytorch Implementation of ''A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement''. 
 
 <div align=center><img src="img/1.png" height = "80%" width = "80%"/></div>
 
