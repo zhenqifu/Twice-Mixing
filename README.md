@@ -1,4 +1,4 @@
-# A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement (Signal Processing: Image communication, 2021) [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0923596521003155)
+# A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement (Signal Processing: Image communication, 2022) [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0923596521003155)
 
 The Pytorch Implementation of ''A Rank Learning based Quality Assessment Approach For Underwater Image Enhancement''. 
 
